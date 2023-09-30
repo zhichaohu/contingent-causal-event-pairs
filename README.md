@@ -1,5 +1,5 @@
 # Contingent Causal Event Pairs
-This page was migrated from https://nlds.soe.ucsc.edu/contingent. Please see zip files above for download.
+This page was migrated from https://nlds.soe.ucsc.edu/contingent. Please see zip file above for download. Please contact me to download the IMDSB film scenes (26MB).
 
 **If you use this data in your research, please refer to and cite**: Hu, Zhichao, Elahe Rahimtoroghi, Larissa Munishkina, Reid Swanson, and Marilyn A. Walker. "[Unsupervised Induction of Contingent Event Pairs from Film Scenes](https://www.researchgate.net/profile/Marilyn_Walker2/publication/256695472_Unsupervised_Induction_of_Contingent_Event_Pairs_from_Film_Scenes/links/00b7d5239f6966d083000000.pdf)." In Conference on Empirical Methods in Natural Language Processing (EMNLP), Seattle, Washington, USA, 2013.
 
